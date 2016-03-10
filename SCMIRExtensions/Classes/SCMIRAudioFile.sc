@@ -593,7 +593,7 @@ SCMIRAudioFile {
 
 		def.children.do{|val,i| if(val.class==FeatureSave,{ugenindex = val.synthIndex})};
 
-		def.add;
+		def.writeDefFile;
 
 
 		//for batch processing, need this fork outside;
