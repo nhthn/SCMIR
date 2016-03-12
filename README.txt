@@ -1,3 +1,5 @@
+THIS IS NOT THE REAL SCMIR! I provide this temporary fork only to fix a few bugs in SCMIR that render it unusable in recent versions of SuperCollider. Nick is currently working on the next version of SCMIR, and presumably these issues will be fixed when that is released.
+
 README
 
 SuperCollider Music Information Retrieval (SCMIR) library
